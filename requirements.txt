@@ -1,0 +1,7 @@
+scipy
+numpy
+bitarray
+pandas
+sklearn
+cvxpy
+python-libsvm

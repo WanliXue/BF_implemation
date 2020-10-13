@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "HAR_ML_withDP.py", line 6, in <module>
+    from svmutil import *
+  File "/Users/wanli/PycharmProjects/BF_imple/codes/svmutil.py", line 5, in <module>
+    from svm import *
+  File "/Users/wanli/PycharmProjects/BF_imple/codes/svm.py", line 30, in <module>
+    raise Exception('LIBSVM library not found.')
+Exception: LIBSVM library not found.
